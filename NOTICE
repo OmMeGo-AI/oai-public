@@ -1,0 +1,13 @@
+Copyright 2026 OmMeGo.AI Inc
+
+This repository contains reference materials, including example sub-agents,
+sub-agent templates, recipe templates, and supporting examples, released by
+OmMeGo.AI Inc under the Apache License, Version 2.0.
+
+Unless required by applicable law or agreed to in writing, software and related
+materials distributed under the License are distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+Citation request:
+If you use this repository in research, products, demos, benchmarks, or
+publications, please cite the original source described in CITATION.cff.

@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper and software release."
+title: "OAI Public"
+version: "0.1.0"
+date-released: 2026-04-05
+type: software
+
+authors:
+  - family-names: "Gupta"
+    given-names: "Gunjan"
+    email: "gunjankgupta@lightsphereai.com"
+    affiliation: "OmMeGo.AI Inc"
+  - family-names: "Bishnoi"
+    given-names: "Sanjiv"
+    email: "sanjiv@lightsphereai.com"
+    affiliation: "OmMeGo.AI Inc"
+  - name: "OmMeGo.AI Inc"
+
+license: "Apache-2.0"
+repository-code: "https://github.com/OmMeGo-AI/oai-public"
+url: "https://github.com/OmMeGo-AI/oai-public"
+
+preferred-citation:
+  type: article
+  title: "OmMeGo.AI Companion Code to the 2026 SuperAgent Paper/System Release"
+  authors:
+    - family-names: "Gupta"
+      given-names: "Gunjan"
+      affiliation: "OmMeGo.AI Inc"
+    - family-names: "Bishnoi"
+      given-names: "Sanjiv"
+      affiliation: "OmMeGo.AI Inc"
+    - name: "OmMeGo.AI Inc"
+  journal: "arXiv"
+  year: 2026
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/xxxx.xxxxx"
