@@ -1,9 +1,10 @@
 # Docs
 
-This folder will contain the public paper, slide deck, and any supporting release documentation.
+This folder contains the paper, slide deck, and any supporting release documentation.
 
-Planned contents:
-- paper PDF: draft available here now 
-  - pending future version from arXiv; copy available here.
-- slide deck PDF
-- figures or supplementary notes if needed
+Current contents:
+- paper PDF: draft updated with improved figures from slides         
+- slides PDF
+Planned contents coming soon:
+  - future version of paper from arXiv will be available here.
+  - sample agent templates, receipe templates
